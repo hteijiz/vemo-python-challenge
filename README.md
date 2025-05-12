@@ -29,7 +29,7 @@ Desarrollar un microservicio en Python usando FastAPI que exponga los siguientes
 - Usar **Python 3** y **FastAPI**.
 - No se requiere ningún framework adicional salvo los necesarios para correr FastAPI.
 - Estructurar el código de forma clara y modular.
-- El archivo de log ya viene precargado (`logs/example.log`), no modificarlo.
+- El archivo de log ya viene precargado (`example.log`), no modificarlo.
 
 ---
 
